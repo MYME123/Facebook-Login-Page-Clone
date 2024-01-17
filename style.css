@@ -12,8 +12,7 @@ body {
   padding: 40px 100px;
   height: 100vh;
   width: 100vw;
-  background-color: #8DC4F9;
-  
+  background-color: #8dc4f9;
 }
 .content {
   display: flex;
@@ -83,26 +82,26 @@ form {
   font-weight: 500;
   margin-left: 3vw;
 }
-  button{
+button {
   margin-top: 1.5vw;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   border-bottom-left-radius: 15px;
   color: #fff;
   border: none;
-  background-color: #1877F2;
+  background-color: #1877f2;
   font-family: "gilroy";
   font-size: 1.7vw;
   padding: 10px 10.8vw;
 }
-.box p{
-  color: #1877F2;
+.box p {
+  color: #1877f2;
   margin-top: 0.8vw;
   font-size: 1.1vw;
 }
-#new{
-  background-color: #36A420;
-    border-radius: none;
+#new {
+  background-color: #36a420;
+  border-radius: none;
   padding: 1vw 2vw;
   font-size: 1.5vw;
 }
